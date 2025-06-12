@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Stack
 |  |
 | ------- |
