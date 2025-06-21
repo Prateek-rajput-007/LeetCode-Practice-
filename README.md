@@ -66,6 +66,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0077-combinations) |
 ## Math
 |  |
 | ------- |
