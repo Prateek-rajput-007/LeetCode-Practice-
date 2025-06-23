@@ -73,6 +73,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0263-ugly-number) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
