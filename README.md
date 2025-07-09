@@ -76,6 +76,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
@@ -108,6 +109,7 @@
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 ## Math
 |  |
 | ------- |
@@ -149,10 +151,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -161,4 +165,5 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
