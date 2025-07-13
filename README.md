@@ -23,6 +23,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Stack
@@ -36,6 +37,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
