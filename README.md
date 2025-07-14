@@ -119,6 +119,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0263-ugly-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
@@ -182,4 +183,8 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0099-recover-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
