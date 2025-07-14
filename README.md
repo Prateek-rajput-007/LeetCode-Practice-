@@ -16,6 +16,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0966-binary-subarrays-with-sum) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -46,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -100,6 +102,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Dynamic Programming
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Queue
@@ -187,4 +191,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
