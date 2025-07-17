@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0966-binary-subarrays-with-sum) |
@@ -35,6 +36,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -45,6 +47,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -110,6 +113,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
