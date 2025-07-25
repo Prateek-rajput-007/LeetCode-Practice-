@@ -28,6 +28,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
