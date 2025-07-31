@@ -14,6 +14,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0966-binary-subarrays-with-sum) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -124,6 +125,7 @@
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
