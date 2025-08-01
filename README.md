@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0118-pascals-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Backtracking
