@@ -147,6 +147,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0263-ugly-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -155,6 +156,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
@@ -227,6 +229,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
