@@ -155,6 +155,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
