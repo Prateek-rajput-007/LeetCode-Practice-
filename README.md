@@ -21,6 +21,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -146,6 +147,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1170-shortest-common-supersequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
