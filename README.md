@@ -33,6 +33,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -141,6 +142,7 @@
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
