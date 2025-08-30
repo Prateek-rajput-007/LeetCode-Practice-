@@ -8,6 +8,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
@@ -89,6 +90,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -257,6 +259,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
