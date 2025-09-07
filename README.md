@@ -24,6 +24,7 @@
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -181,6 +182,7 @@
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2432-number-of-zero-filled-subarrays) |
