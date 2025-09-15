@@ -105,6 +105,7 @@
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0966-binary-subarrays-with-sum) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -128,6 +129,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1170-shortest-common-supersequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
