@@ -111,6 +111,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -235,6 +236,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
 ## Design
@@ -318,6 +321,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0146-lru-cache) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
