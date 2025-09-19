@@ -51,6 +51,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3617-find-the-original-typed-string-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -286,6 +289,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
+| [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,6 +326,7 @@
 | [0146-lru-cache](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0146-lru-cache) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
