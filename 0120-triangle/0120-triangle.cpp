@@ -10,7 +10,13 @@ int solve(int i,int j,vector<vector<int>>&triangle,vector<vector<int>>&dp){
     return dp[i][j]= min(op1,op2);
 }
     int minimumTotal(vector<vector<int>>& triangle) {
-        vector<vector<int>>dp(triangle.size()+1,vector<int>(triangle.size()+1,-1));
-        return solve(0,0,triangle,dp);
+        // vector<vector<int>>dp(triangle.size()+1,vector<int>(triangle.size()+1,-1));
+        // return solve(0,0,triangle,dp);
+        for (int i = triangle.size() - 2; i >= 0; i--)
+            for (int j = 0; j < triangle[i].size(); j++)
+                triangle[i][j] +=
+                    min(triangle[i + 1][j], triangle[i + 1][j + 1]);
+
+        return triangle[0][0];
     }
 };
