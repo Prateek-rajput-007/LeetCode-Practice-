@@ -17,6 +17,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -83,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -129,6 +132,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -168,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2294-minimum-time-to-complete-trips) |
