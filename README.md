@@ -223,6 +223,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -248,6 +249,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
