@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
@@ -286,6 +288,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
@@ -298,6 +301,7 @@
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -308,6 +312,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
