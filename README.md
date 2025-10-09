@@ -60,6 +60,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
@@ -261,6 +262,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
