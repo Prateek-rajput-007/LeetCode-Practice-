@@ -28,6 +28,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -96,6 +97,7 @@
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -125,6 +127,7 @@
 | [0940-fruit-into-baskets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -160,6 +163,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2346-largest-3-same-digit-number-in-string) |
