@@ -63,6 +63,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
 ## Two Pointers
 |  |
 | ------- |
