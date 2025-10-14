@@ -65,6 +65,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4058-compute-alternating-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4058-compute-alternating-sum) |
 ## Stack
 |  |
@@ -355,6 +356,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
