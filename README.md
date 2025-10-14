@@ -65,6 +65,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4058-compute-alternating-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4058-compute-alternating-sum) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4058-compute-alternating-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4058-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
