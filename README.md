@@ -65,6 +65,7 @@
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -93,6 +94,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
