@@ -53,6 +53,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -92,6 +93,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
@@ -140,6 +142,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -247,6 +250,7 @@
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
