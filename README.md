@@ -72,6 +72,7 @@
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
 | [4058-compute-alternating-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4058-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Stack
@@ -155,6 +156,7 @@
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -302,6 +304,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -394,6 +397,7 @@
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -429,4 +433,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
