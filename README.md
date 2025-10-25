@@ -73,6 +73,7 @@
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4058-compute-alternating-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4058-compute-alternating-sum) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
