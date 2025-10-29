@@ -268,6 +268,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3830-find-closest-person) |
@@ -387,6 +388,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
