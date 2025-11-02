@@ -48,6 +48,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2294-minimum-time-to-complete-trips) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
@@ -301,6 +302,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -385,6 +387,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
