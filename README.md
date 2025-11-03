@@ -38,6 +38,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2169-simple-bank-system) |
@@ -98,6 +99,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -192,6 +194,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -242,6 +245,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
