@@ -252,6 +252,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Backtracking
 |  |
@@ -405,6 +406,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
