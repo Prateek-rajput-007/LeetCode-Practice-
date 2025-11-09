@@ -279,6 +279,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -312,6 +313,7 @@
 | [2169-simple-bank-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
