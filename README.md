@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0120-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0498-diagonal-traverse) |
@@ -181,6 +182,7 @@
 | [0011-container-with-most-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -233,6 +235,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -418,6 +421,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
