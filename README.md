@@ -67,6 +67,7 @@
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -115,6 +116,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -137,6 +139,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Monotonic Stack
