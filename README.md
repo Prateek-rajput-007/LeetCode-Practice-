@@ -49,6 +49,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
@@ -211,6 +212,7 @@
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -363,6 +365,7 @@
 | [0498-diagonal-traverse](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1642-water-bottles) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2169-simple-bank-system) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
