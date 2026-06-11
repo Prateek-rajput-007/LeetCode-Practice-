@@ -335,6 +335,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -414,6 +415,7 @@
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -423,6 +425,7 @@
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
