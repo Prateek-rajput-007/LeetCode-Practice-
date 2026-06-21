@@ -45,6 +45,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1840-maximum-building-height) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -121,6 +122,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -149,6 +151,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -548,4 +551,8 @@
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
