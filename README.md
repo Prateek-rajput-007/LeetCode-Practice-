@@ -17,6 +17,7 @@
 | [0066-plus-one](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0474-ones-and-zeroes) |
@@ -182,6 +183,7 @@
 | [0036-valid-sudoku](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -566,4 +568,8 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
