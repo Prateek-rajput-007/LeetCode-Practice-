@@ -55,6 +55,7 @@
 | [1840-maximum-building-height](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -132,6 +133,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -203,6 +205,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2169-simple-bank-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2169-simple-bank-system) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -259,6 +262,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -381,6 +385,7 @@
 | [0767-reorganize-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0767-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1189-maximum-number-of-balloons) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3583-count-special-triplets) |
