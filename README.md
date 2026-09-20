@@ -268,6 +268,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -407,6 +408,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [3336-water-bottles-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3498-reverse-degree-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
