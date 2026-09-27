@@ -117,6 +117,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -257,6 +258,7 @@
 | [0767-reorganize-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0767-reorganize-string) |
 | [1170-shortest-common-supersequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -592,4 +594,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
