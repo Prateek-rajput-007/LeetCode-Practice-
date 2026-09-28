@@ -118,6 +118,7 @@
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -262,6 +263,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -598,4 +600,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
