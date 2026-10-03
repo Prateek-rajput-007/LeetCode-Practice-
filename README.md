@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0165-compare-version-numbers) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0120-triangle) |
@@ -608,6 +611,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
