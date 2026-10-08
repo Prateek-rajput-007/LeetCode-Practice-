@@ -122,6 +122,7 @@
 | [0735-asteroid-collision](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -268,6 +269,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1189-maximum-number-of-balloons) |
@@ -620,6 +622,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
