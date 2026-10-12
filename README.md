@@ -82,6 +82,7 @@
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -150,6 +151,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -222,6 +224,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -538,6 +541,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2529-range-product-queries-of-powers) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
