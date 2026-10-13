@@ -98,6 +98,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
@@ -157,6 +158,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
@@ -190,6 +192,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
