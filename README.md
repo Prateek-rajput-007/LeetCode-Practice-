@@ -91,6 +91,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -190,6 +191,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -233,6 +235,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
