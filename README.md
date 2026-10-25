@@ -37,6 +37,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -504,6 +505,7 @@
 | [0257-binary-tree-paths](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -511,6 +513,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -542,6 +545,7 @@
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0835-image-overlap) |
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -641,6 +645,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bracket Sequences
 |  |
