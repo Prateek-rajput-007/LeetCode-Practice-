@@ -100,6 +100,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -507,6 +508,7 @@
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -514,6 +516,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -552,6 +555,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
@@ -647,6 +651,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
