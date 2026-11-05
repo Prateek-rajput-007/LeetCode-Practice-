@@ -42,6 +42,7 @@
 | [1288-remove-covered-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -183,6 +184,7 @@
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1288-remove-covered-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -265,6 +267,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -340,6 +343,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
