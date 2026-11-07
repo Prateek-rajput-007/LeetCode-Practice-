@@ -58,6 +58,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1882-process-tasks-using-servers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -493,6 +494,7 @@
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1882-process-tasks-using-servers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1882-process-tasks-using-servers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
