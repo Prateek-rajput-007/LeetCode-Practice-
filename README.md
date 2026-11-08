@@ -39,6 +39,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1127-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -448,6 +449,7 @@
 | [0767-reorganize-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0767-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -524,6 +526,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -533,6 +536,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -566,6 +570,7 @@
 | [0835-image-overlap](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0835-image-overlap) |
 | [0967-minimum-falling-path-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0967-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
@@ -667,6 +672,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
