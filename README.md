@@ -109,6 +109,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -386,6 +387,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3524-find-x-value-of-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
