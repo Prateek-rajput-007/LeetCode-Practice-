@@ -97,6 +97,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3524-find-x-value-of-array-i) |
@@ -145,6 +146,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0780-max-chunks-to-make-sorted) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1628-count-submatrices-with-all-ones) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +345,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2747-count-zero-request-servers](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2747-count-zero-request-servers) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
@@ -508,6 +512,7 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2195-time-needed-to-buy-tickets) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -613,6 +618,7 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4045-longest-balanced-subarray-i) |
@@ -699,4 +705,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
