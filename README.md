@@ -319,6 +319,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3498-reverse-degree-of-a-string) |
