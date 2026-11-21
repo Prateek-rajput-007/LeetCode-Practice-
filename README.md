@@ -98,6 +98,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -257,6 +258,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -324,6 +326,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -527,6 +530,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -539,6 +543,7 @@
 | [0794-swim-in-rising-water](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/0794-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
