@@ -319,6 +319,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/2260-divide-a-string-into-groups-of-size-k) |
