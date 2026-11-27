@@ -125,6 +125,7 @@
 | [3797-design-spreadsheet](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3838-weighted-word-mapping) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -181,6 +182,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -403,6 +405,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Prateek-rajput-007/LeetCode-Practice-/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
